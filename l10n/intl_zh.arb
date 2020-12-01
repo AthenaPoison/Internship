@@ -1,0 +1,34 @@
+  
+{
+    "@@last_modified": "2019-06-27T22:25:57.081431",
+    "langSetting": "语言设定",
+    "@langSetting": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "langZH": "中文",
+    "@langZH":{
+      "type": "text",
+      "placeholders": {}
+    },
+    "langFP": "他加禄语",
+    "@langFP":{
+      "type": "text",
+      "placeholders":{}
+    },
+    "langEN": "英语",
+    "@langEN":{
+      "type": "text",
+      "placeholders":{}
+    },
+    "langID": "印度尼西亚语",
+    "@langID":{
+      "type": "text",
+      "placeholders":{}
+    },
+    "langMS": "马来语",
+    "@langMS":{
+      "type": "text",
+      "placeholders":{}
+    }
+  }

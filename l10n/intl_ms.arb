@@ -1,0 +1,33 @@
+{
+    "@@last_modified": "2019-06-27T22:25:57.081431",
+    "langSetting": "Mengubah Bahasa",
+    "@langSetting": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "langZH": "Bahasa Cina",
+    "@langZH": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "langFP": "Bahasa Tagalog",
+    "@langFP": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "langEN": "Bahasa Inggeris",
+    "@langEN": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "langID": "Bahasa Indonesia",
+    "@langID": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "langMS": "Bahasa Melayu",
+    "@langMS": {
+      "type": "text",
+      "placeholders": {}
+    }
+  }

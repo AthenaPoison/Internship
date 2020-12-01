@@ -1,0 +1,33 @@
+{
+    "@@last_modified": "2019-06-27T22:25:57.081431",
+    "langSetting": "Mga Setting ng Wika",
+    "@langSetting": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "langZH": "Wikang Tsino",
+    "@langZH": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "langFP": "Wikang Tagalog",
+    "@langFP": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "langEN": "Wikang Ingles",
+    "@langEN": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "langID": "Wikang Indonesian",
+    "@langID": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "langMS": "Wikang Malay",
+    "@langMS": {
+      "type": "text",
+      "placeholders": {}
+    }
+  }
